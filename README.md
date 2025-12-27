@@ -117,7 +117,7 @@ To ensure a fair comparison between models all models predicted the same rolling
 **Evaluation metrics:**
 
 - MAE, RMSE, MAE 
-- Results were logged using MLflow and compared in the last notebok **04_AB_Testing.ipynb**
+- Results were logged using MLflow and compared in the last notebok **04_AB_testing.ipynb**
 
 ## Results 
 
